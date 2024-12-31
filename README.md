@@ -1,3 +1,3 @@
-# project_data_panel_pesawat
+# airlines cost panel data project
 
-### project ini akan menganalisis biaya yang dikeluarkan oleh 6 maskapai penerbangan dalam kurun waktu 15 tahun
+### This project will analyze the operating costs incurred by 6 airlines over a 15-year period.
